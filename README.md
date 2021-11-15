@@ -13,3 +13,7 @@ PS1='\033[01;92m\]┌──\[\033[7;49;91m\]Emmanuel L. Hrangate\[\033[7;49;94m\
 monero wallet:
 
 453n63upcyqMDXLGYg2d4PLVqF32ztjuhAWjKZX6m8Gjbiq7MzZcLkkfY7mE6iHdVEQx5gGTLDhpCaVfGkBBtyFRDvbM8GP
+
+
+BTC Address:
+3Kf3xJX8GbtLzsLZhWpoHDciCW26hjH34c
