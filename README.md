@@ -11,4 +11,4 @@ PS1='\033[01;92m\]┌──\[\033[7;49;91m\]Emmanuel L. Hrangate\[\033[7;49;94m\
 #copy the code and replace 'Emmanuel L. Hrangate by your name
 
 
-r43Go4qa4hK6osznHRpb1hqQcQuJh6FWys
+48yZsRBoPWNWQ84HzwgqwsMequupV4BNQXVShoDXb5eB2HygzWHVYHsitUNNgW5xAtg65epDAVaWTUuTwxaDrdWXG2st8e3
